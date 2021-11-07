@@ -12,7 +12,7 @@ namespace Pinger
             {
                 string ipinfo;
                 string iprepeat;
-                Console.Write("Enter Domain or IP: ");
+                Console.Write("Enter Domain or IP:  (DONT USE ILLEGALLY NOT OUR ISSUE RETARDS)");
                 ipinfo = Console.ReadLine();
                 Console.Write("Would you like repeating ping checks: ");
                 iprepeat = Console.ReadLine();
